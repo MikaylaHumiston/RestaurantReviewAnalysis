@@ -1,1 +1,2 @@
 # RestaurantReviewAnalysis
+This is a data analysis project with the aim of collecting and analyzing reviews for a specific Legal Sea Foods restaurant location. My personal goals of this project are familiarizing myself with the relevant Python and MATLAB tools, as well as gaining insight on guest perception of this restaurant to promote advances in service, food, ambience, and overall guest experience.
