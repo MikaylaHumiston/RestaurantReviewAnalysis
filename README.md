@@ -3,7 +3,7 @@ Author: Mikayla Humiston
 
 This is a data analysis project with the aim of collecting and analyzing reviews for a specific Legal Sea Foods restaurant location. As an employee of this Legal Sea Foods, I have been interested in using the guest reviews to gain insight into the overall perception of the restaurant and ways that we can facilitate a superb dining experience. My personal goals of this project are expanding my knowledge and skills with Python and MATLAB in applications pertaining to data analysis.
 
-## ScrapingCleaningPython
+## [Web Scraping](ScrapingCleaningPython)
 Python BeautifulSoup is used to scrape guest reviews from OpenTable in scrape.py. This program targets html class attributes associated with the date, reviewer name, rating, and review text for each review. The program clean_and_store.py then prepares the data by cleaning it, removing special characters, converting text to lower case, then connecting and storing it in a Microsoft SQL Server database.
 
 ## [Collected Data](Data)
